@@ -17,14 +17,14 @@
 !/week2-queues/RandomizedQueue.java
 !/week2-queues/queues.zip
 
-!/week3-8puzzle/BruteCollinearPoints.java
-!/week3-8puzzle/FastCollinearPoints.java
-!/week3-8puzzle/Point.java
-!/week3-8puzzle/8puzzle.zip
+!/week3-collinear-points/BruteCollinearPoints.java
+!/week3-collinear-points/FastCollinearPoints.java
+!/week3-collinear-points/Point.java
+!/week3-collinear-points/collinear.zip
 
-!/week4-collinear-points/Board.java
-!/week4-collinear-points/Solver.java
-!/week4-collinear-points/collinear.zip
+!/week4-8puzzle/Board.java
+!/week4-8puzzle/Solver.java
+!/week4-8puzzle/8puzzle.zip
 
 !/week5-kd-tree/KdTree.java
 !/week5-kd-tree/PointSET.java
